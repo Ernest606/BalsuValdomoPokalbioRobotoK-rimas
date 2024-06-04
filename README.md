@@ -21,7 +21,7 @@ Sistema apima šiuos veiksmus:
 4. **`text2speech.py`**: Nuskaito išversta atsakymo tekstą iš failo, paverčia jį į garsinį įrašą naudodama Google Cloud Text-to-Speech API ir išsaugo garsą kaip MP3 failą.
 5. **`main.py`**: Pateikia GUI su mygtuku, kuris inicijuoja visą procesą, iškviečia kitus scenarijus eilės tvarka ir leidžia galutinį garso atsakymą.
 
-### Išsamus darbo eiga
+### Išsami darbo eiga
 
 1. **Įrašyti balso įvestį**:
    - Scenarijus: `recordVoice.py`
